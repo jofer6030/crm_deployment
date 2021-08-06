@@ -1,0 +1,5 @@
+{"_id":{"$oid":"60fb4766b3895730d87f1c90"},"nombre":"Camisa VueJS","precio":30,"imagen":"pk9SSATuk.jpeg","__v":0}
+{"_id":{"$oid":"60fb483bb3895730d87f1c94"},"nombre":"Camisa Drupal","precio":30,"imagen":"547eJiPwm.jpeg","__v":0}
+{"_id":{"$oid":"6101faf164a8a22040b6c198"},"nombre":"Camisa SASS","precio":30,"imagen":"biKmI162F.jpeg","__v":0}
+{"_id":{"$oid":"6101fb8c64a8a22040b6c19a"},"nombre":"Camisa HTML","precio":25,"imagen":"9BcAkWpxk.jpeg","__v":0}
+{"_id":{"$oid":"610c5f4d4b8101056466c7e6"},"nombre":"Node Js","precio":35,"imagen":"FVlReYKbP.jpeg","__v":0}

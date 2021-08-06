@@ -1,0 +1,3 @@
+{"_id":{"$oid":"60fb3a6320d5261d7054630b"},"nombre":"José Fernando","apellido":"Velasque Echebautis","empresa":"Udemy","email":"correo@correo.com","telefono":"12345678","__v":0}
+{"_id":{"$oid":"60fb3aee20d5261d7054630f"},"nombre":"Kely","apellido":"Velasque Echebautis","empresa":"Instagram","email":"correo3@correo.com","telefono":"15641324","__v":0}
+{"_id":{"$oid":"60fcbb4e1bac7323d0421c12"},"nombre":"Juan","apellido":"Peréz","empresa":"AirBNB","email":"correo2@correo.com","telefono":"112454684","__v":0}
