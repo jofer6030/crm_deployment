@@ -16,6 +16,9 @@ mongoose.connect(process.env.DB_URL,{
 //crear el servidor
 const app = express();
 
+//Carpeta publica
+app.use(express.static('uploads'));
+
 //bodyparser
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
@@ -41,8 +44,7 @@ app.use(cors(corsOptions));
 //Rutas de la app
 app.use('/', routes());
 
-//Carpeta publica
-app.use(express.static('uploads'));
+
 
 const host = process.env.HOST || '0.0.0.0'; //heroku adoptara el 0.0.0.0 y aognara un host
 const port = process.env.PORT || 5000; //heroku asingnara un puerto 
